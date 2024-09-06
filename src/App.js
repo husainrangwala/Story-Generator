@@ -85,6 +85,8 @@ function App() {
       setImages(data.images);
     } catch (error) {
       console.log(error);
+      setStory('Something went wrong please try again later');
+      setImages([])
     } finally {
       setIsSubmitting(false);
     }
