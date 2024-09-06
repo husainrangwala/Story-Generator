@@ -1,0 +1,24 @@
+{
+    "data": {
+        "id": "chatcmpl-xxxxxx",
+        "object": "chat.completion",
+        "created": 1693939200,
+        "model": "gpt-4",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content":
+                        "{\"title\":\"The Enchanted Portal\",\"content\":\"In a magical bakery where pastries were alive, there was always something fun happening. The bakery was filled with cupcakes that could giggle, cookies that could dance, and pies that could spin in circles. Today, something very exciting was about to take place\u2014the annual Magical Bakery Race!\\n\\nThe competitors were three special pastries: Benny the Bagel, Sandy the Shortbread, and Charlie the Chocolate Cake. Benny the Bagel was known for his quick spins, Sandy the Shortbread was famous for her dazzling twirls, and Charlie the Chocolate Cake was famous for his steady moves.\\n\\nAs the race began, Benny the Bagel bounced ahead with a lot of speed. He spun and twirled, thinking he would win easily. Sandy the Shortbread, with her fancy moves, was also quick, showing off her spinning skills. Meanwhile, Charlie the Chocolate Cake, though moving slowly, had a calm and steady pace.\\n\\nBenny the Bagel zoomed ahead, but after a while, he started to feel tired. He had bounced so much that he couldn\u2019t keep his speed up. Sandy the Shortbread also began to feel tired from all the spinning and twirling. Both of them slowed down and struggled to keep going.\\n\\nCharlie the Chocolate Cake kept rolling slowly but steadily. He didn\u2019t rush or get distracted. With every little roll, he moved closer to the finish line. Benny and Sandy watched in surprise as Charlie kept moving at his steady pace.\\n\\nAs the finish line came closer, Benny and Sandy tried their best to speed up, but they were too tired. Charlie the Chocolate Cake, still rolling steadily, crossed the finish line first! All the pastries in the bakery cheered and clapped for Charlie.\\n\\nThe baker, who was very wise, said, \u201CToday, we learned something very important. Sometimes, moving slowly and steadily helps us win the race!\u201D\\n\\nFrom that day on, every pastry in the magical bakery remembered the lesson of Charlie the Chocolate Cake. They knew that even if they were slow, if they kept a steady pace, they could achieve great things. And so, the bakery was filled with happy pastries, all rolling and spinning at their own pace, knowing that slow and steady truly wins the race.\",\"images\":[{\"url\":\"/images/generic_image_1.jpg\",\"description\":\"Kids reading in fantasy forest\"},{\"url\":\"/images/generic_image_2.jpg\",\"description\":\"Kid reading on a cloud\"},{\"url\":\"/images/generic_image_3.jpg\",\"description\":\"Elven kids in a cottage\"}]}"
+                    },
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 50,
+            "completion_tokens": 150,
+            "total_tokens": 200
+        }
+    }
+}

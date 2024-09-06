@@ -1,0 +1,41 @@
+/* Contains all the styling related to the app */
+body {
+  background-color: #D8C0AC;
+  background-size: 100%;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+}
+
+.story-container {
+  background-color: #767E90;
+}
+
+h2 {
+  color: #0F3A5D;
+}
+
+.container span {
+  color: #000000;
+}
+
+.inputs {
+  padding: 2rem;
+}
+
+.title {
+  font-size: 2rem;
+  margin: 2rem;
+  color: #D6D7AB;
+}
+
+p {
+  color: #FFFFFF;
+  margin: 2rem;
+  border-radius: 30px;
+}
+
+.story {
+  margin: 2rem;
+  border-radius: 30px;
+}
